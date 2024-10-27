@@ -69,7 +69,7 @@ body {
 .hero-section {
     position: relative;
     text-align: center;
-    background-image: url('C:\\Users\\Administrator\\Desktop\\webdev\\image.jpg'); /* Updated image path */
+    background-image: url('image.jpg'); /* Updated image path */
     background-size: cover;
     background-position: center;
     color: white;
